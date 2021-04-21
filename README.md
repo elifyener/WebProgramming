@@ -9,3 +9,9 @@ Bir html formdan gönderilen seçenek bilgilerine göre (seçenekler word, pdf v
 Login.jsp isminde bir sayfa hazırlayıp, bir kullanıcının login olmasını sağlayınız. Login işlemi esnasında cookie oluşmasını ve kullanıcının ikinci girişinde cookie bilgilerini okuyarak kullanıcının kaçıncı defa sisteme girdiği bilgisini cookie içerisinden öğrenebileceğiniz bir örnek uygulama geliştiriniz.
 ## 
 
+**3. Project:** ShoppingCart(Session Management)
+
+C9- Session Tracking  isimli kitap bölümünde  yer alan shopping cart örneğini kendiniz gerçekleştiriniz.
+## 
+
+
